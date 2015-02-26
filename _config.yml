@@ -1,0 +1,12 @@
+# Site settings
+title: Exop.olitics
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  We feed you with the latest news on UFO an disclosure
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://exop.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  exop
+
+# Build settings
+markdown: kramdown
