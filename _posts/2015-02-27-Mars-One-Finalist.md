@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mars One Finalist: 'Sowing the Seeds' of a New Civilization (Op-Ed)"
-date:   2015-02-25 03:45:30
+date:   2015-02-27 03:45:30
 categories: update
 ---
  I have always been in awe of the night sky, trying to comprehend the vastness of space and the countless wonders it contains. But I have always felt a certain dissatisfaction with only being able to see it at a distance.
