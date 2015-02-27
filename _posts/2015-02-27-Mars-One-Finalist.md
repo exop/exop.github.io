@@ -31,3 +31,5 @@ Both futures hold so much potential that there will be a real sense of loss when
 I have very high hopes for what we can achieve by colonising Mars. The mission is a difficult one, but I believe the plan is feasible and Mars One is capable of pulling it off. And when that happens, it will be an incredibly diverse group of people from many different countries, cultures and backgrounds working together to represent the human race on a new planet, backed by the investment and support of millions of people across the world.
 
 Mars One is the people’s mission to Mars, and I am honoured to be a part of it.
+
+source: m.space.com (http://m.space.com/28653-mars-one-finalist-sowing-the-seeds-of-a-new-civilization.html)
