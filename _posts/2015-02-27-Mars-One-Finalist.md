@@ -32,4 +32,4 @@ I have very high hopes for what we can achieve by colonising Mars. The mission i
 
 Mars One is the people’s mission to Mars, and I am honoured to be a part of it.
 
-source: [m.space.com](http://m.space.com/28653-mars-one-finalist-sowing-the-seeds-of-a-new-civilization.html)
+source: [Space com](http://m.space.com/28653-mars-one-finalist-sowing-the-seeds-of-a-new-civilization.html)
