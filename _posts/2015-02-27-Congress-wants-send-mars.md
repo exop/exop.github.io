@@ -20,4 +20,4 @@ This approach, Martin notes, typypically causes schedule and cost overruns. But 
 
 This analysis comes just a day after Ted Cruz, conducting his first hearing as chair of the Senate's Subcommittee on Science, Space and Competitiveness, stressed the importance of putting a person on Mars. But so far, neither he nor other politicians have given any indication of how that'd actually be possible.
 
-source: vox.com http://www.vox.com/2015/2/25/8109901/mars-nasa-congress
+source: [Vox](http://www.vox.com/2015/2/25/8109901/mars-nasa-congress)
