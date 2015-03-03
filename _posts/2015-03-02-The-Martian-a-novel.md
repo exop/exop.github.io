@@ -6,6 +6,6 @@ categories: space
 ---
 
 Heard good reviews on this book, maybe worth trying. It has whispersync for Audible and Kindle
-![]({{ site.url }}/assets/91hZq3%2BZLcL.jpg =250x)
+![]({{ site.url }}/assets/91hZq3%2BZLcL.jpg)
 
 source: [Amazon](http://www.amazon.com/The-Martian-Novel-Andy-Weir/dp/0804139024)
