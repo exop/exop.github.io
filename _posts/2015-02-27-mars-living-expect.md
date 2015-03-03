@@ -18,4 +18,4 @@ O Mars One é um projeto lançado pelo co-fundador da companhia, o holandês Bas
 
 Mais de 200.000 pessoas de 140 países se apresentaram voluntariamente para participar do projeto, que gerou muito ceticismo, mas também o apoio de cientistas como o ganhador do prêmio Nobel de Física em 1999, Gerard't Hooft.
 
-source http://glo.bo/1Ci7AGu
+source: [Globo](http://glo.bo/1Ci7AGu)
